@@ -1,0 +1,180 @@
+/** TODO: 目前採用 NED-header 需要修改 */
+#NED-bp1004-2-item1 .headerText,
+#NED-bp1004-2-item2 .headerText,
+#NED-bp1004-2-item3 .headerText,
+#NED-bp1004-2-item4 .headerText {
+  position: absolute;
+  width: 100%;
+  top: 34px;
+  left: 66px;
+  color: #FFFFFF;
+  letter-spacing: 4px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/**titleIcon */
+#NED-bp1004-2-item1 .titleIcon,
+#NED-bp1004-2-item2 .titleIcon,
+#NED-bp1004-2-item3 .titleIcon,
+#NED-bp1004-2-item4 .titleIcon {
+  position: absolute;
+  width: 160px;
+  height: 160px;
+  left: 560px;
+  z-index: 5;
+}
+/**title */
+#NED-bp1004-2-item1 .title,
+#NED-bp1004-2-item2 .title,
+#NED-bp1004-2-item3 .title,
+#NED-bp1004-2-item4 .title {
+  position: absolute;
+  left: 524px;
+  color: #467FF8;
+  text-align: center;
+  line-height: 1;
+  z-index: 6;
+  min-width: 232px;
+}
+/**text */
+#NED-bp1004-2-item1 .text,
+#NED-bp1004-2-item2 .text,
+#NED-bp1004-2-item3 .text,
+#NED-bp1004-2-item4 .text {
+  position: absolute;
+  width: 232px;
+  left: 524px;
+  text-align: center;
+  line-height: 32px;
+  z-index: 6;
+}
+/**
+ * One list item
+ */
+#NED-bp1004-2-item1 .titleIcon {
+  top: 201px;
+}
+#NED-bp1004-2-item1 .title {
+  top: 408px;
+}
+#NED-bp1004-2-item1 .text {
+  top: 478px;
+}
+/**
+ * Two list item
+ */
+ #NED-bp1004-2-item2 .titleIcon1 {
+   top: 201px;
+   left: 367px;
+ }
+ #NED-bp1004-2-item2 .title1 {
+   top: 408px;
+   left: 332px;
+ }
+ #NED-bp1004-2-item2 .text1 {
+   top: 478px;
+   left: 332px;
+ }
+ #NED-bp1004-2-item2 .titleIcon2 {
+   top: 201px;
+   left: 752px;
+ }
+ #NED-bp1004-2-item2 .title2 {
+   top: 408px;
+   left: 717px;
+ }
+ #NED-bp1004-2-item2 .text2 {
+   top: 478px;
+   left: 717px;
+ }
+/**
+ * Three list item
+ */
+ #NED-bp1004-2-item3 .titleIcon1 {
+   top: 201px;
+   left: 233px;
+ }
+ #NED-bp1004-2-item3 .title1 {
+   top: 408px;
+   left: 197px;
+ }
+ #NED-bp1004-2-item3 .text1 {
+   top: 478px;
+   left: 197px;
+ }
+ #NED-bp1004-2-item3 .titleIcon2 {
+   top: 201px;
+   left: 560px;
+ }
+ #NED-bp1004-2-item3 .title2 {
+   top: 408px;
+   left: 524px;
+ }
+ #NED-bp1004-2-item3 .text2 {
+   top: 478px;
+   left: 524px;
+ }
+ #NED-bp1004-2-item3 .titleIcon3 {
+   top: 201px;
+   left: 887px;
+ }
+ #NED-bp1004-2-item3 .title3 {
+   top: 408px;
+   left: 851px;
+ }
+ #NED-bp1004-2-item3 .text3 {
+   top: 478px;
+   left: 851px;
+ }
+/**
+ * Four list item
+ */
+#NED-bp1004-2-item4 .titleIcon1 {
+  top: 201px;
+  left: 141px;
+}
+#NED-bp1004-2-item4 .title1 {
+  top: 408px;
+  left: 107px;
+}
+#NED-bp1004-2-item4 .text1 {
+  top: 478px;
+  left: 107px;
+}
+#NED-bp1004-2-item4 .titleIcon2 {
+  top: 201px;
+  left: 420px;
+}
+#NED-bp1004-2-item4 .title2 {
+  top: 408px;
+  left: 386px;
+}
+#NED-bp1004-2-item4 .text2 {
+  top: 478px;
+  left: 386px;
+}
+#NED-bp1004-2-item4 .titleIcon3 {
+  top: 201px;
+  left: 700px;
+}
+#NED-bp1004-2-item4 .title3 {
+  top: 408px;
+  left: 666px;
+}
+#NED-bp1004-2-item4 .text3 {
+  top: 478px;
+  left: 666px;
+}
+#NED-bp1004-2-item4 .titleIcon4 {
+  top: 201px;
+  left: 979px;
+}
+#NED-bp1004-2-item4 .title4 {
+  top: 408px;
+  left: 945px;
+}
+#NED-bp1004-2-item4 .text4 {
+  top: 478px;
+  left: 945px;
+}

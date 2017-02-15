@@ -1,0 +1,31 @@
+/** TODO: 目前採用 NED-header 需要修改 */
+#NED-bp1004-11-marketSize .headerText {
+  position: absolute;
+  width: 100%;
+  top: 34px;
+  left: 66px;
+  color: #FFFFFF;
+  letter-spacing: 4px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/** middle image */
+#NED-bp1004-11-marketSize .middleImg {
+  position: absolute;
+  width: 535px;
+  height: 355px;
+  left: 646px;
+  top: 212px;
+  z-index: 6;
+}
+
+/** text */
+#NED-bp1004-11-marketSize .text {
+  position: absolute;
+  width: 466px;
+  left: 98px;
+  top: 273px;
+  text-align: left;
+  font-size:20px;
+}

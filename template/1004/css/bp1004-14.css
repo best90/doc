@@ -1,0 +1,67 @@
+
+/** TODO: 目前採用 NED-header 需要修改 */
+
+/**centerIcon */
+#NED-bp1004-14-contactUs img {
+    position: relative;
+}
+#NED-bp1004-14-contactUs .centerword {
+  position: absolute;
+  width: 270px;
+  height: 61px;
+  left: 269px;
+  top: 330px;
+  z-index: 6;
+}
+/**boxBackgound*/
+#NED-bp1004-14-contactUs .boxBackground{
+  position: absolute;
+  height: 50px;
+  width: auto;
+  background-color: rgba(44, 34, 77, 0.7);
+  z-index: 6;
+}
+/**text */
+#NED-bp1004-14-contactUs .text {
+  position: absolute;
+  left: 673px;
+  line-height: 50px;
+  word-wrap: break-word;
+  color:white;
+  z-index: 6;
+  display: inline-block;
+  border-radius: 5px;
+  padding: 0 10px 0 50px;
+}
+#NED-bp1004-14-contactUs .textAdd {
+  min-width: 60px;
+}
+#NED-bp1004-14-contactUs .textAdd1 {
+  min-width: 200px;
+}
+  #NED-bp1004-14-contactUs .text > div {
+    display: inline-block;
+  }
+  #NED-bp1004-14-contactUs .text > img {
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+  }
+#NED-bp1004-14-contactUs .persontext {
+  top: 187px;
+}
+#NED-bp1004-14-contactUs .telephonetext{
+  top: 244px;
+}
+#NED-bp1004-14-contactUs .mailtext {
+  top: 301px;
+}
+#NED-bp1004-14-contactUs .qqtext {
+  top: 358px;
+}
+#NED-bp1004-14-contactUs .wechattext{
+  top: 425px;
+}
+#NED-bp1004-14-contactUs .websitetext {
+  top: 483px;
+}

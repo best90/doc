@@ -1,0 +1,136 @@
+/** TODO: 目前採用 NED-header 需要修改 */
+#NED-bp1004-8-item1 .headerText,
+#NED-bp1004-8-item2 .headerText,
+#NED-bp1004-8-item3 .headerText,
+#NED-bp1004-8-item4 .headerText {
+  position: absolute;
+  width: 100%;
+  top: 34px;
+  left: 66px;
+  color: #FFFFFF;
+  letter-spacing: 4px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+
+/** title */
+#NED-bp1004-8-item1 .title,
+#NED-bp1004-8-item2 .title,
+#NED-bp1004-8-item3 .title,
+#NED-bp1004-8-item4 .title {
+  position: absolute;
+  width: 294px;
+  text-align: center;
+  color: #467FF8;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/** text */
+#NED-bp1004-8-item1 .text,
+#NED-bp1004-8-item2 .text,
+#NED-bp1004-8-item3 .text,
+#NED-bp1004-8-item4 .text {
+  position: absolute;
+  width: 294px;
+  text-align: center;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/**
+* One list item
+*/
+
+#NED-bp1004-8-item1 .title {
+  top: 294px;
+  left: 432px;
+}
+#NED-bp1004-8-item1 .text {
+  top: 349px;
+  left: 432px;
+}
+/**
+* Two list item
+*/
+
+#NED-bp1004-8-item2 .title1 {
+  top: 294px;
+  left: 122px;
+}
+#NED-bp1004-8-item2 .text1 {
+  top: 349px;
+  left: 122px;
+}
+#NED-bp1004-8-item2 .title2 {
+  top: 294px;
+  left: 863px;
+}
+#NED-bp1004-8-item2 .text2 {
+  top: 349px;
+  left: 863px;
+}
+/**
+ * Three list item
+ */
+
+ #NED-bp1004-8-item3 .title1 {
+   top: 216px;
+   left: 122px;
+ }
+ #NED-bp1004-8-item3 .text1 {
+   top: 272px;
+   left: 122px;
+ }
+ #NED-bp1004-8-item3 .title2 {
+   top: 216px;
+   left: 863px;
+ }
+ #NED-bp1004-8-item3 .text2 {
+   top: 272px;
+   left: 863px;
+ }
+ #NED-bp1004-8-item3 .title3 {
+   top: 503px;
+   left: 488px;
+ }
+ #NED-bp1004-8-item3 .text3 {
+   top: 559px;
+   left: 488px;
+ }
+/**
+ * Four list item
+ */
+
+ #NED-bp1004-8-item4 .title1 {
+   top: 216px;
+   left: 122px;
+ }
+ #NED-bp1004-8-item4 .text1 {
+   top: 272px;
+   left: 122px;
+ }
+ #NED-bp1004-8-item4 .title2 {
+   top: 216px;
+   left: 863px;
+ }
+ #NED-bp1004-8-item4 .text2 {
+   top: 272px;
+   left: 863px;
+ }
+ #NED-bp1004-8-item4 .title3 {
+   top: 425px;
+   left: 122px;
+ }
+ #NED-bp1004-8-item4 .text3 {
+   top: 481px;
+   left: 122px;
+ }
+ #NED-bp1004-8-item4 .title4 {
+   top: 425px;
+   left: 863px;
+ }
+ #NED-bp1004-8-item4 .text4 {
+   top: 481px;
+   left: 863px;
+ }

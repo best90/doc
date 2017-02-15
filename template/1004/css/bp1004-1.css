@@ -1,0 +1,28 @@
+#NED-bp1004-1-index .name {
+    position: absolute;
+    width: 750px;
+    top: 324px;
+    left: 463px;
+    font-size: 60px;
+    text-align: right;
+    letter-spacing: 14px;
+    color: #FBFCFD;
+    line-height: 1.25;
+    word-wrap: break-word;
+    font-weight: bold;
+    z-index: 6;
+}
+#NED-bp1004-1-index .intro {
+    position: absolute;
+    width: 645px;
+    top: 437px;
+    left: 555px;
+    font-size: 28px;
+    text-align: right;
+    color: #FBFCFD;
+    letter-spacing: 3px;
+    line-height: 36px;
+    word-wrap: break-word;
+    font-weight: normal;
+    z-index: 10;
+}

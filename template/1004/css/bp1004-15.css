@@ -1,0 +1,71 @@
+/** TODO: 目前採用 NED-header 需要修改 */
+#NED-bp1004-15-item1 .headerText,
+#NED-bp1004-15-item2 .headerText {
+  position: absolute;
+  width: 100%;
+  top: 34px;
+  left: 66px;
+  color: #FFFFFF;
+  letter-spacing: 4px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/**centerIcon */
+
+#NED-bp1004-15-item1 .centerImg,
+#NED-bp1004-15-item2 .centerImg {
+  position: absolute;
+  width: 792px;
+  height: 446px;
+  word-wrap: break-word;
+  z-index: 6;
+}
+#NED-bp1004-15-item2 .centerImg1,
+#NED-bp1004-15-item2 .centerImg2{
+  width: 508px;
+  height: 286px;
+}
+#NED-bp1004-15-item1 .centerImg{
+    top: 137px;
+    left: 80px;
+}
+#NED-bp1004-15-item2 .centerImg1{
+    top: 159px ;
+    left: 127px;
+}
+#NED-bp1004-15-item2 .centerImg2{
+    top: 159px;
+    left: 645px;
+}
+/**text */
+#NED-bp1004-15-item1 .text,
+#NED-bp1004-15-item2 .text{
+  position: absolute;
+  width: 279px;
+  height: 78px;
+  line-height: 29px;
+  color: #FFFFFF;
+  word-wrap: break-word;
+  z-index: 6;
+  text-align: left;
+}
+/**
+ * One list item
+ */
+#NED-bp1004-15-item1 .text {
+  top: 320px;
+  left: 936px;
+}
+/**
+* Two list item
+*/
+
+#NED-bp1004-15-item2 .text1 {
+  top: 483px;
+  left: 273px;
+}
+#NED-bp1004-15-item2 .text2 {
+  top: 483px;
+  left: 791px;
+}
