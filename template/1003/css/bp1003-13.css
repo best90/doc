@@ -1,0 +1,184 @@
+
+/** TODO: 目前採用 NED-header 需要修改 */
+#NED-bp1003-13-item1 .headerText,
+#NED-bp1003-13-item2 .headerText,
+#NED-bp1003-13-item3 .headerText,
+#NED-bp1003-13-item4 .headerText {
+  position: absolute;
+  width: 100%;
+  top: 27px;
+  color: #070708;
+  letter-spacing: 4px;
+  line-height: 1;
+  text-align: center;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/**stripImg */
+#NED-bp1003-13-item1 .centerIcon,
+#NED-bp1003-13-item2 .centerIcon,
+#NED-bp1003-13-item3 .centerIcon,
+#NED-bp1003-13-item4 .centerIcon {
+  position: absolute;
+  width: 214px;
+  height: 214px;
+  top: 337px;
+  left: 379px;
+  z-index: 6;
+}
+/**name */
+#NED-bp1003-13-item1 .name,
+#NED-bp1003-13-item2 .name,
+#NED-bp1003-13-item3 .name,
+#NED-bp1003-13-item4 .name {
+  font-weight: normal;
+  position: absolute;
+  text-align:center;
+  width: 164px;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/** text */
+#NED-bp1003-13-item1 .text,
+#NED-bp1003-13-item2 .text,
+#NED-bp1003-13-item3 .text,
+#NED-bp1003-13-item4 .text {
+  position: absolute;
+  width: 62px;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 22px;
+  text-align: center;
+  word-wrap: break-word;
+  z-index: 6;
+  font-size:24px;
+}
+
+#NED-bp1003-13-item1 .inline,
+#NED-bp1003-13-item2 .inline,
+#NED-bp1003-13-item3 .inline,
+#NED-bp1003-13-item4 .inline {
+  display: inline-block;
+}
+/**
+ * One list item
+ */
+#NED-bp1003-13-item1 .name {
+  top: 263px;
+  left: 404px;
+}
+#NED-bp1003-13-item1 .text {
+  top: 430px;
+  left: 455px;
+}
+/**
+* Two list item
+*/
+#NED-bp1003-13-item2 .icon1{
+  left: 178px;
+}
+#NED-bp1003-13-item2 .name1 {
+  top: 263px;
+  left: 202px;
+}
+#NED-bp1003-13-item2 .text1 {
+  top: 430px;
+  left: 254px;
+}
+#NED-bp1003-13-item2 .icon2{
+  left: 579px;
+}
+#NED-bp1003-13-item2 .name2 {
+  top: 263px;
+  left: 603px;
+}
+#NED-bp1003-13-item2 .text2 {
+  top: 430px;
+  left: 655px;
+}
+/**
+ * Three list item
+ */
+#NED-bp1003-13-item3 .icon1{
+  left: 96px;
+}
+ #NED-bp1003-13-item3 .name1 {
+   top: 263px;
+   left: 121px;
+ }
+ #NED-bp1003-13-item3 .text1 {
+   top: 430px;
+   left: 172px;
+ }
+ #NED-bp1003-13-item3 .icon2{
+  left: 379px;
+}
+ #NED-bp1003-13-item3 .name2 {
+   top: 263px;
+   left: 404px;
+ }
+ #NED-bp1003-13-item3 .text2 {
+   top: 430px;
+   left: 455px;
+ }
+ #NED-bp1003-13-item3 .icon3{
+  left: 661px;
+}
+ #NED-bp1003-13-item3 .name3 {
+   top: 263px;
+   left: 686px;
+ }
+ #NED-bp1003-13-item3 .text3 {
+   top: 430px;
+   left: 737px;
+ }
+/**
+ * Four list item
+ */
+#NED-bp1003-13-item4 .icon1{
+  left: 77px;
+}
+ #NED-bp1003-13-item4 .name1 {
+   top: 263px;
+   left: 102px;
+ }
+ #NED-bp1003-13-item4 .text1 {
+   top: 430px;
+   left: 153px;
+ }
+ #NED-bp1003-13-item4 .icon2{
+  left: 313px;
+}
+ #NED-bp1003-13-item4 .name2 {
+   top: 263px;
+   left: 338px;
+ }
+ #NED-bp1003-13-item4 .text2 {
+   top: 430px;
+   left: 389px;
+ }
+ #NED-bp1003-13-item4 .icon3{
+  left: 550px;
+}
+ #NED-bp1003-13-item4 .name3 {
+   top: 263px;
+   left: 575px;
+ }
+ #NED-bp1003-13-item4 .text3 {
+   top: 430px;
+   left: 626px;
+ }
+ #NED-bp1003-13-item4 .icon4{
+  left: 786px;
+}
+ #NED-bp1003-13-item4 .name4 {
+   top: 263px;
+   left: 811px;
+ }
+ #NED-bp1003-13-item4 .text4 {
+   top: 430px;
+   left: 862px;
+ }

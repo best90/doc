@@ -1,0 +1,36 @@
+#NED-bp1003-1-index .name {
+    position: absolute;
+    width: 100%;
+    top: 72px;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 14px;
+    color: #FFFFFF;
+    line-height: 1.25;
+    word-wrap: break-word;
+    font-weight: bold;
+    z-index: 6;
+}
+#NED-bp1003-1-index .intro {
+    position: absolute;
+    width: 474px;
+    top: 195px;
+    left: 403px;
+    font-size: 24px;
+    text-align: center;
+    color: white;
+    line-height: 36px;
+    word-wrap: break-word;
+    font-weight: normal;
+    z-index: 10;
+}
+#NED-bp1003-1-index .icon{
+    position: absolute;
+    z-index: 1 ;
+}
+#NED-bp1003-1-Icon1{
+    top: 161px;
+    left: 594px;
+    width: 84px;
+    height: 34px;
+}
