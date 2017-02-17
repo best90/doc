@@ -1,0 +1,253 @@
+
+/** TODO: 目前採用 NED-header 需要修改 */
+#NED-bp1016-9-item1 .headerText,
+#NED-bp1016-9-item2 .headerText,
+#NED-bp1016-9-item3 .headerText,
+#NED-bp1016-9-item4 .headerText {
+  position: absolute;
+  width: 100%;
+  top: 35px;
+  left: 34px;
+  font-size: 32px;
+  color: #333333;
+  letter-spacing: 4px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/**centerIcon */
+
+#NED-bp1016-9-item1 .centerIcon,
+#NED-bp1016-9-item2 .centerIcon,
+#NED-bp1016-9-item3 .centerIcon,
+#NED-bp1016-9-item4 .centerIcon {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 168px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+#NED-bp1016-9-item1 .centerIcon{
+    left: 551px;
+}
+
+/**roleImg */
+#NED-bp1016-9-item1 .roleImg,
+#NED-bp1016-9-item2 .roleImg,
+#NED-bp1016-9-item3 .roleImg,
+#NED-bp1016-9-item4 .roleImg {
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  z-index: 6;
+}
+/**roleImg */
+#NED-bp1016-9-item1 .roleImg img,
+#NED-bp1016-9-item2 .roleImg img,
+#NED-bp1016-9-item3 .roleImg img,
+#NED-bp1016-9-item4 .roleImg img{
+  border-radius: 50%;
+  top: 188px;
+}
+#NED-bp1016-9-item1 .roleImg{
+    left: 570px;
+}
+#NED-bp1016-9-item2 .roleImg1{
+    left: 400px;
+}
+#NED-bp1016-9-item2 .roleImg2{
+    left: 739px;
+}
+#NED-bp1016-9-item3 .roleImg1{
+    left: 251px;
+}
+#NED-bp1016-9-item3 .roleImg2{
+    left: 570px;
+}
+#NED-bp1016-9-item3 .roleImg3{
+    left: 889px;
+}
+#NED-bp1016-9-item4 .roleImg1{
+    left: 136px;
+}
+#NED-bp1016-9-item4 .roleImg2{
+    left: 425px;
+}
+#NED-bp1016-9-item4 .roleImg3{
+    left: 714px;
+}
+#NED-bp1016-9-item4 .roleImg4{
+    left: 1003px;
+}
+
+/**name */
+#NED-bp1016-9-item1 .name,
+#NED-bp1016-9-item2 .name,
+#NED-bp1016-9-item3 .name,
+#NED-bp1016-9-item4 .name {
+  position: absolute;
+  width: 240px;
+  line-height: 1;
+  text-align: center;
+  top:369px;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/**job */
+#NED-bp1016-9-item1 .job,
+#NED-bp1016-9-item2 .job,
+#NED-bp1016-9-item3 .job,
+#NED-bp1016-9-item4 .job {
+  position: absolute;
+  width: 240px;
+  top:402px;
+  font-size:20px;
+  text-align: center;
+  word-wrap: break-word;
+  font-weight:bolder;
+  z-index: 7;
+}
+/**text */
+#NED-bp1016-9-item1 .text,
+#NED-bp1016-9-item2 .text,
+#NED-bp1016-9-item3 .text,
+#NED-bp1016-9-item4 .text {
+  position: absolute;
+  width: 240px;
+  top:440px;
+  line-height: 1.25;
+  word-wrap: break-word;
+  z-index: 6;
+  text-align: center;
+}
+/**
+ * One list item
+ */
+#NED-bp1016-9-item1 .name {
+   left:521px;
+}
+#NED-bp1016-9-item1 .job {
+   left:521px;
+}
+#NED-bp1016-9-item1 .text {
+   left:521px;
+}
+/**
+* Two list item
+*/
+#NED-bp1016-9-item2 .centerImg1{
+  left: 381px;
+}
+#NED-bp1016-9-item2 .name1 {
+  left:351px;
+}
+#NED-bp1016-9-item2 .job1 {
+  left:351px;
+}
+#NED-bp1016-9-item2 .text1 {
+  left:351px;
+}
+#NED-bp1016-9-item2 .centerImg2{
+  left: 720px;
+}
+#NED-bp1016-9-item2 .name2 {
+  left:690px;
+}
+#NED-bp1016-9-item2 .job2 {
+  left:690px;
+}
+#NED-bp1016-9-item2 .text2 {
+  left:690px;
+}
+/**
+ * Three list item
+ */
+#NED-bp1016-9-item3 .centerImg1{
+  left: 232px;
+}
+ #NED-bp1016-9-item3 .name1 {
+   left:202px;
+ }
+ #NED-bp1016-9-item3 .job1 {
+   left:202px;
+ }
+ #NED-bp1016-9-item3 .text1 {
+   left:202px;
+ }
+ #NED-bp1016-9-item3 .centerImg2{
+  left: 551px;
+}
+ #NED-bp1016-9-item3 .name2 {
+   left:521px;
+ }
+ #NED-bp1016-9-item3 .job2 {
+   left:521px;
+ }
+ #NED-bp1016-9-item3 .text2 {
+   left:521px;
+ }
+ #NED-bp1016-9-item3 .centerImg3{
+  left: 870px;
+}
+ #NED-bp1016-9-item3 .name3 {
+   left:840px;
+ }
+ #NED-bp1016-9-item3 .job3 {
+   left:840px;
+ }
+ #NED-bp1016-9-item3 .text3 {
+   left:840px;
+ }
+/**
+ * Four list item
+ */
+#NED-bp1016-9-item4 .centerImg1{
+  left: 117px;
+}
+ #NED-bp1016-9-item4 .name1 {
+   left:87px;
+ }
+ #NED-bp1016-9-item4 .job1 {
+   left:87px;
+ }
+ #NED-bp1016-9-item4 .text1 {
+   left:87px;
+ }
+ #NED-bp1016-9-item4 .centerImg2{
+  left: 406px;
+}
+ #NED-bp1016-9-item4 .name2 {
+   left:376px;
+ }
+ #NED-bp1016-9-item4 .job2 {
+   left:376px;
+ }
+ #NED-bp1016-9-item4 .text2 {
+   left:376px;
+ }
+ #NED-bp1016-9-item4 .centerImg3{
+  left: 695px;
+}
+ #NED-bp1016-9-item4 .name3 {
+   left:665px;
+ }
+ #NED-bp1016-9-item4 .job3 {
+   left:665px;
+ }
+ #NED-bp1016-9-item4 .text3 {
+   left:665px;
+ }
+ #NED-bp1016-9-item4 .centerImg4{
+  left: 984px;
+}
+ #NED-bp1016-9-item4 .name4 {
+   left:954px;
+ }
+ #NED-bp1016-9-item4 .job4 {
+   left:954px;
+ }
+ #NED-bp1016-9-item4 .text4 {
+   left:954px;
+ }

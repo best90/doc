@@ -1,0 +1,150 @@
+
+/** TODO: 目前採用 NED-header 需要修改 */
+#NED-bp1016-13-item1 .headerText,
+#NED-bp1016-13-item2 .headerText,
+#NED-bp1016-13-item3 .headerText,
+#NED-bp1016-13-item4 .headerText {
+  position: absolute;
+  width: 100%;
+  top: 35px;
+  left: 34px;
+  font-size: 32px;
+  color: #333333;
+  letter-spacing: 4px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/**stripImg */
+#NED-bp1016-13-item1 .centerIcon,
+#NED-bp1016-13-item2 .centerIcon,
+#NED-bp1016-13-item3 .centerIcon,
+#NED-bp1016-13-item4 .centerIcon {
+  position: absolute;
+  width: 340px;
+  height: 340px;
+  top: 190px;
+  left: 470px;
+  z-index: 6;
+}
+/**name */
+#NED-bp1016-13-item1 .name,
+#NED-bp1016-13-item2 .name,
+#NED-bp1016-13-item3 .name,
+#NED-bp1016-13-item4 .name {
+  font-weight: normal;
+  position: absolute;
+  top: 329px;
+  font-size: 24px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/** text */
+#NED-bp1016-13-item1 .text,
+#NED-bp1016-13-item2 .text,
+#NED-bp1016-13-item3 .text,
+#NED-bp1016-13-item4 .text {
+  position: absolute;
+  top: 367px;
+  width: 75px;
+  font-size: 28px;
+  font-weight: bold;
+  word-wrap: break-word;
+  z-index: 6;
+  font-size:24px;
+}
+
+#NED-bp1016-13-item1 .inline,
+#NED-bp1016-13-item2 .inline,
+#NED-bp1016-13-item3 .inline,
+#NED-bp1016-13-item4 .inline {
+  display: inline-block;
+}
+/**
+ * One list item
+ */
+#NED-bp1016-13-item1 .name {
+  left: 245px;
+}
+#NED-bp1016-13-item1 .text {
+  left: 356px;
+}
+/**
+* Two list item
+*/
+#NED-bp1016-13-item2 .name1 {
+  left: 245px;
+}
+#NED-bp1016-13-item2 .text1 {
+  left: 356px;
+}
+#NED-bp1016-13-item2 .name2 {
+  left: 840px;
+}
+#NED-bp1016-13-item2 .text2 {
+  left: 840px;
+}
+/**
+ * Three list item
+ */
+ #NED-bp1016-13-item3 .name1 {
+   top: 374px;
+   left: 245px;
+ }
+ #NED-bp1016-13-item3 .text1 {
+   top: 412px;
+   left: 356px;
+ }
+
+ #NED-bp1016-13-item3 .name2 {
+   top: 385px;
+   left: 840px;
+ }
+ #NED-bp1016-13-item3 .text2 {
+   top: 426px;
+   left: 840px;
+ }
+ #NED-bp1016-13-item3 .name3 {
+   top: 117px;
+   left: 698px;
+ }
+ #NED-bp1016-13-item3 .text3 {
+   top: 155px;
+   left: 698px;
+ }
+/**
+ * Four list item
+ */
+ #NED-bp1016-13-item4 .name1 {
+   top: 374px;
+   left: 245px;
+ }
+ #NED-bp1016-13-item4 .text1 {
+   top: 412px;
+   left: 356px;
+ }
+ #NED-bp1016-13-item4 .name2 {
+   top: 385px;
+   left: 840px;
+ }
+ #NED-bp1016-13-item4 .text2 {
+   top: 426px;
+   left: 840px;
+ }
+ #NED-bp1016-13-item4 .name3 {
+   top: 117px;
+   left: 698px;
+ }
+ #NED-bp1016-13-item4 .text3 {
+   top: 155px;
+   left: 698px;
+ }
+ #NED-bp1016-13-item4 .name4 {
+   top: 559px;
+   left: 470px;
+ }
+ #NED-bp1016-13-item4 .text4 {
+   top: 597px;
+   left: 581px;
+ }

@@ -1,0 +1,13 @@
+
+/** TODO: 目前採用 NED-header 需要修改 */
+#NED-bp1016-17-blank .headerText{
+  position: absolute;
+  width: 294px;
+  top: 35px;
+  left: 34px;
+  font-size: 32px;
+  color: #333333;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}

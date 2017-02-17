@@ -1,0 +1,202 @@
+/** TODO: 目前採用 NED-header 需要修改 */
+#NED-bp1016-8-item1 .headerText,
+#NED-bp1016-8-item2 .headerText,
+#NED-bp1016-8-item3 .headerText,
+#NED-bp1016-8-item4 .headerText {
+  position: absolute;
+  width: 100%;
+  top: 35px;
+  left: 34px;
+  font-size: 32px;
+  color: #333333;
+  letter-spacing: 4px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+
+/** centerIcon */
+#NED-bp1016-8-item1 .centerIcon,
+#NED-bp1016-8-item2 .centerIcon,
+#NED-bp1016-8-item3 .centerIcon,
+#NED-bp1016-8-item4 .centerIcon {
+  position: absolute;
+  width: 92px;
+  height: 609px;
+  top: 60px;
+  left: 594px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+
+#NED-bp1016-8-item3 .line,
+#NED-bp1016-8-item4 .line {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 338px;
+  left: 391px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+#NED-bp1016-8-item4 .line2{
+  top: 451px;
+  left: 839px;
+}
+/** icon */
+#NED-bp1016-8-item1 .icon,
+#NED-bp1016-8-item2 .icon,
+#NED-bp1016-8-item3 .icon,
+#NED-bp1016-8-item4 .icon {
+  position: absolute;
+  width: 140px;
+  height: 63px;
+  top: 186px;
+  left: 530px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+#NED-bp1016-8-item2 .icon1{
+}
+#NED-bp1016-8-item2 .icon2{
+  top: 387px;
+  left: 612px;
+}
+#NED-bp1016-8-item3 .icon2{
+  top: 299px;
+  left: 612px;
+}
+#NED-bp1016-8-item3 .icon3{
+  top: 412px;
+}
+#NED-bp1016-8-item4 .icon2{
+  top: 299px;
+  left: 612px;
+}
+#NED-bp1016-8-item4 .icon3{
+  top: 412px;
+}
+#NED-bp1016-8-item4 .icon4{
+  top: 525px;
+  left: 612px;
+}
+/** title */
+#NED-bp1016-8-item1 .title,
+#NED-bp1016-8-item2 .title,
+#NED-bp1016-8-item3 .title,
+#NED-bp1016-8-item4 .title {
+  position: absolute;
+  width: 279px;
+  text-align: right;
+  line-height: 1;
+  left: 224px;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/** text */
+#NED-bp1016-8-item1 .text,
+#NED-bp1016-8-item2 .text,
+#NED-bp1016-8-item3 .text,
+#NED-bp1016-8-item4 .text {
+  position: absolute;
+  width: 279px;
+  left: 224px;
+  text-align: right;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/**
+* One list item
+*/
+
+#NED-bp1016-8-item1 .title {
+  top: 189px;
+}
+#NED-bp1016-8-item1 .text {
+  top: 229px;
+}
+/**
+* Two list item
+*/
+
+#NED-bp1016-8-item2 .title1 {
+  top: 189px;
+}
+#NED-bp1016-8-item2 .text1 {
+  top: 229px;
+}
+#NED-bp1016-8-item2 .title2 {
+  top: 390px;
+  left: 778px;
+  text-align: left;
+}
+#NED-bp1016-8-item2 .text2 {
+  top: 430px;
+  left: 778px;
+  text-align: left;
+}
+/**
+ * Three list item
+ */
+
+ #NED-bp1016-8-item3 .title1 {
+   top: 189px;
+ }
+ #NED-bp1016-8-item3 .text1 {
+   top: 229px;
+ }
+ #NED-bp1016-8-item3 .title2 {
+   top: 302px;
+   left: 778px;
+   text-align: left;
+ }
+ #NED-bp1016-8-item3 .text2 {
+   top: 342px;
+   left: 778px;
+   text-align: left;
+ }
+ #NED-bp1016-8-item3 .title3 {
+   top: 416px;
+ }
+ #NED-bp1016-8-item3 .text3 {
+   top: 456px;
+ }
+/**
+ * Four list item
+ */
+
+ #NED-bp1016-8-item4 .title1 {
+   top: 189px;
+ }
+ #NED-bp1016-8-item4 .text1 {
+   top: 229px;
+ }
+ #NED-bp1016-8-item4 .title2 {
+   top: 302px;
+   left: 778px;
+   text-align: left;
+ }
+ #NED-bp1016-8-item4 .text2 {
+   top: 342px;
+   left: 778px;
+   text-align: left;
+ }
+ #NED-bp1016-8-item4 .title3 {
+   top: 416px;
+ }
+ #NED-bp1016-8-item4 .text3 {
+   top: 456px;
+ }
+ #NED-bp1016-8-item4 .title4 {
+   top: 529px;
+   left: 778px;
+   text-align: left;
+ }
+ #NED-bp1016-8-item4 .text4 {
+   top: 569px;
+   left: 778px;
+   text-align: left;
+ }

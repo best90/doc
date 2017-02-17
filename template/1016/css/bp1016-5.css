@@ -1,0 +1,176 @@
+/** TODO: 目前採用 NED-header 需要修改 */
+#NED-bp1016-5-item1 .headerText,
+#NED-bp1016-5-item2 .headerText,
+#NED-bp1016-5-item3 .headerText,
+#NED-bp1016-5-item4 .headerText {
+  position: absolute;
+  width: 100%;
+  top: 35px;
+  left: 34px;
+  font-size: 32px;
+  color: #333333;
+  letter-spacing: 4px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+#NED-bp1016-5-item1 .titleIcon,
+#NED-bp1016-5-item2 .titleIcon,
+#NED-bp1016-5-item3 .titleIcon,
+#NED-bp1016-5-item4 .titleIcon {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 287px;
+  z-index: 6;
+}
+#NED-bp1016-5-item1 .titleIcon {
+  left: 466px;
+}
+#NED-bp1016-5-item2 .titleIcon {
+
+}
+#NED-bp1016-5-item3 .titleIcon {
+
+}
+#NED-bp1016-5-item4 .titleIcon {
+
+}
+/** title */
+#NED-bp1016-5-item1 .title,
+#NED-bp1016-5-item2 .title,
+#NED-bp1016-5-item3 .title,
+#NED-bp1016-5-item4 .title {
+  position: absolute;
+  width: 279px;
+  top: 301px;
+}
+/** text */
+#NED-bp1016-5-item1 .text,
+#NED-bp1016-5-item2 .text,
+#NED-bp1016-5-item3 .text,
+#NED-bp1016-5-item4 .text {
+  position: absolute;
+  width: 279px;
+  top: 341px;
+}
+/**
+ * One list item
+ */
+#NED-bp1016-5-item1 .title {
+  left: 536px;
+}
+#NED-bp1016-5-item1 .text {
+  left: 536px;
+}
+/**
+ * Two list item
+ */
+#NED-bp1016-5-item2 .icon1{
+  left: 202px;
+}
+#NED-bp1016-5-item2 .title1 {
+  left: 272px;
+}
+#NED-bp1016-5-item2 .text1 {
+  left: 272px;
+}
+#NED-bp1016-5-item2 .icon2{
+  left: 730px;
+}
+#NED-bp1016-5-item2 .title2 {
+  left: 800px;
+}
+#NED-bp1016-5-item2 .text2 {
+  left: 800px;
+}
+/**
+ * Three list item
+ */
+#NED-bp1016-5-item3 .icon1{
+  top: 176px;
+  left: 139px;
+}
+ #NED-bp1016-5-item3 .title1 {
+   top: 190px;
+   left: 209px;
+ }
+ #NED-bp1016-5-item3 .text1 {
+   top: 230px;
+   left: 209px;
+ }
+ #NED-bp1016-5-item3 .icon2{
+  top: 176px;
+  left: 667px;
+}
+ #NED-bp1016-5-item3 .title2 {
+   top: 190px;
+   left: 737px;
+ }
+ #NED-bp1016-5-item3 .text2 {
+   top: 230px;
+   left: 737px;
+ }
+ #NED-bp1016-5-item3 .icon3{
+  top: 398px;
+  left: 415px;
+}
+ #NED-bp1016-5-item3 .title3 {
+   top: 412px;
+   left: 485px;
+ }
+ #NED-bp1016-5-item3 .text3 {
+   top: 452px;
+   left: 485px;
+ }
+/**
+ * Four list item
+ */
+  #NED-bp1016-5-item4 .icon1{
+    top: 176px;
+    left: 139px;
+  }
+ #NED-bp1016-5-item4 .title1 {
+   top: 190px;
+   left: 209px;
+ }
+ #NED-bp1016-5-item4 .text1 {
+   top: 230px;
+   left: 209px;
+ }
+ #NED-bp1016-5-item4 .icon2{
+  top: 176px;
+  left: 667px;
+}
+ #NED-bp1016-5-item4 .title2 {
+   top: 190px;
+   left: 737px;
+ }
+ #NED-bp1016-5-item4 .text2 {
+   top: 230px;
+   left: 737px;
+ }
+ #NED-bp1016-5-item4 .icon3{
+  top: 398px;
+  left: 285px;
+}
+ #NED-bp1016-5-item4 .title3 {
+   top: 412px;
+   left: 355px;
+ }
+ #NED-bp1016-5-item4 .text3 {
+   top: 452px;
+   left: 355px;
+ }
+ #NED-bp1016-5-item4 .icon4{
+  top: 398px;
+  left: 783px;
+}
+ #NED-bp1016-5-item4 .title4 {
+   top: 412px;
+   left: 853px;
+ }
+ #NED-bp1016-5-item4 .text4 {
+   top: 452px;
+   left: 853px;
+ }
