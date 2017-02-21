@@ -1,0 +1,178 @@
+
+/** TODO: 目前採用 NED-header 需要修改 */
+#NED-bp1005-6-item1 .headerText,
+#NED-bp1005-6-item2 .headerText,
+#NED-bp1005-6-item3 .headerText,
+#NED-bp1005-6-item4 .headerText {
+  position: absolute;
+  width: 100%;
+  top: 51px;
+  left: 76px;
+  color: #FEFEFE;
+  letter-spacing: 4px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+#NED-bp1005-6-item1 .titleIcon,
+#NED-bp1005-6-item2 .titleIcon,
+#NED-bp1005-6-item3 .titleIcon,
+#NED-bp1005-6-item4 .titleIcon {
+  position: absolute;
+  width: 92px;
+  height: 88px;
+  top: 239px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+  border-radius: 50%; 
+  overflow: hidden;
+}
+#NED-bp1005-6-item1 .titleIcon{
+  left: 418px;
+}
+#NED-bp1005-6-item2 .titleIcon1{
+  left: 238px;
+}
+#NED-bp1005-6-item2 .titleIcon2{
+  left: 600px;
+}
+#NED-bp1005-6-item3 .titleIcon1{
+  top: 140px;
+  left: 238px;
+}
+#NED-bp1005-6-item3 .titleIcon2{
+  top: 140px;
+  left: 600px;
+}
+#NED-bp1005-6-item3 .titleIcon3{
+  top: 424px;
+  left: 419px;
+}
+#NED-bp1005-6-item4 .titleIcon1{
+  top: 140px;
+  left: 238px;
+}
+#NED-bp1005-6-item4 .titleIcon2{
+  top: 140px;
+  left: 600px;
+}
+#NED-bp1005-6-item4 .titleIcon3{
+  top: 424px;
+  left: 238px;
+}
+#NED-bp1005-6-item4 .titleIcon4{
+  top: 424px;
+  left: 600px;
+}
+/**title */
+#NED-bp1005-6-item1 .title,
+#NED-bp1005-6-item2 .title,
+#NED-bp1005-6-item3 .title,
+#NED-bp1005-6-item4 .title {
+  position: absolute;
+  width: 290px;
+  top: 346px;
+  text-align: center;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/**text */
+#NED-bp1005-6-item1 .text,
+#NED-bp1005-6-item2 .text,
+#NED-bp1005-6-item3 .text,
+#NED-bp1005-6-item4 .text {
+  position: absolute;
+  width: 290px;
+  top: 394px;
+  word-wrap: break-word;
+  z-index: 6;
+  text-align: center;
+}
+/**
+ * One list item
+ */
+#NED-bp1005-6-item1 .title {
+  left: 319px;
+}
+#NED-bp1005-6-item1 .text {
+  left: 319px;
+}
+/**
+ * Two list item
+ */
+#NED-bp1005-6-item2 .title1 {
+  left: 139px;
+}
+#NED-bp1005-6-item2 .text1 {
+  left: 139px;
+}
+#NED-bp1005-6-item2 .title2 {
+  left: 501px;
+}
+#NED-bp1005-6-item2 .text2 {
+  left: 501px;
+}
+/**
+ * Three list item
+ */
+#NED-bp1005-6-item3 .title1 {
+  top: 247px;
+  left: 139px;
+}
+#NED-bp1005-6-item3 .text1 {
+  top: 295px;
+  left: 139px;
+}
+#NED-bp1005-6-item3 .title2 {
+  top: 247px;
+  left: 501px;
+}
+#NED-bp1005-6-item3 .text2 {
+  top: 295px;
+  left: 501px;
+}
+#NED-bp1005-6-item3 .title3 {
+  top: 530px;
+  left: 320px;
+}
+#NED-bp1005-6-item3 .text3 {
+  top: 583px;
+  left: 320px;
+}
+/**
+ * Four list item
+ */
+#NED-bp1005-6-item4 .title1 {
+  top: 247px;
+  left: 139px;
+}
+#NED-bp1005-6-item4 .text1 {
+  top: 295px;
+  left: 139px;
+}
+#NED-bp1005-6-item4 .title2 {
+  top: 247px;
+  left: 501px;
+}
+#NED-bp1005-6-item4 .text2 {
+  top: 295px;
+  left: 501px;
+}
+#NED-bp1005-6-item4 .title3 {
+  top: 530px;
+  left: 139px;
+}
+#NED-bp1005-6-item4 .text3 {
+  top: 583px;
+  left: 139px;
+}
+#NED-bp1005-6-item4 .title4 {
+  top: 530px;
+  left: 501px;
+}
+#NED-bp1005-6-item4 .text4 {
+  top: 583px;
+  left: 501px;
+}

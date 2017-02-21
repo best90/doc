@@ -1,0 +1,246 @@
+/** TODO: 目前採用 NED-header 需要修改 */
+#NED-bp1005-8-item1 .headerText,
+#NED-bp1005-8-item2 .headerText,
+#NED-bp1005-8-item3 .headerText,
+#NED-bp1005-8-item4 .headerText {
+  position: absolute;
+  width: 100%;
+  top: 51px;
+  left: 76px;
+  color: #FEFEFE;
+  letter-spacing: 4px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+
+#NED-bp1005-8-item1 .box,
+#NED-bp1005-8-item2 .box,
+#NED-bp1005-8-item3 .box,
+#NED-bp1005-8-item4 .box {
+  position: absolute;
+  width: 162px;
+  height: 152px;
+  top: 324px;
+  left: 710px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+#NED-bp1005-8-item2 .box1{
+  left: 441px;
+}
+#NED-bp1005-8-item2 .box2{
+  left: 675px;
+}
+#NED-bp1005-8-item3 .box1{
+  top: 205px;
+  left: 441px;
+}
+#NED-bp1005-8-item3 .box2{
+  top: 205px;
+  left: 675px;
+}
+#NED-bp1005-8-item3 .box3{
+  top: 430px;
+  left: 552px;
+}
+#NED-bp1005-8-item4 .box1{
+  top: 205px;
+  left: 441px;
+}
+#NED-bp1005-8-item4 .box2{
+  top: 205px;
+  left: 675px;
+}
+#NED-bp1005-8-item4 .box3{
+  top: 430px;
+  left: 441px;
+}
+#NED-bp1005-8-item4 .box4{
+  top: 431px;
+  left: 676px;
+}
+/** centerIcon */
+#NED-bp1005-8-item1 .centerIcon,
+#NED-bp1005-8-item2 .centerIcon,
+#NED-bp1005-8-item3 .centerIcon,
+#NED-bp1005-8-item4 .centerIcon {
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  top: 367px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+#NED-bp1005-8-item2 .centerIconAdd2,
+#NED-bp1005-8-item3 .centerIconAdd2,
+#NED-bp1005-8-item4 .centerIconAdd2 {
+  width: 72px;
+  height: 65px;
+}
+#NED-bp1005-8-item3 .centerIconAdd3,
+#NED-bp1005-8-item4 .centerIconAdd3 {
+  width: 63px;
+  height: 63px;
+}
+#NED-bp1005-8-item4 .centerIconAdd4 {
+  width: 70px;
+  height: 70px;
+}
+#NED-bp1005-8-item1 .centerIconAdd {
+  left: 758px;
+}
+#NED-bp1005-8-item2 .centerIconAdd1 {
+  left:489px;
+}
+#NED-bp1005-8-item2 .centerIconAdd2 {
+  left:722px;
+}
+#NED-bp1005-8-item3 .centerIconAdd1 {
+  top: 249px;
+  left: 489px;
+}
+#NED-bp1005-8-item3 .centerIconAdd2 {
+  top: 249px;
+  left: 722px;
+}
+#NED-bp1005-8-item3 .centerIconAdd3 {
+  top: 475px;
+  left: 603px;
+}
+#NED-bp1005-8-item4 .centerIconAdd1 {
+  top: 249px;
+  left: 489px;
+}
+#NED-bp1005-8-item4 .centerIconAdd2 {
+  top: 249px;
+  left: 722px;
+}
+#NED-bp1005-8-item4 .centerIconAdd3 {
+  top: 475px;
+  left: 489px;
+}
+#NED-bp1005-8-item4 .centerIconAdd4 {
+  top: 472px;
+  left: 722px;
+}
+/** title */
+#NED-bp1005-8-item1 .title,
+#NED-bp1005-8-item2 .title,
+#NED-bp1005-8-item3 .title,
+#NED-bp1005-8-item4 .title {
+  position: absolute;
+  width: 250px;
+  top: 309px;
+  text-align: right;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/** text */
+#NED-bp1005-8-item1 .text,
+#NED-bp1005-8-item2 .text,
+#NED-bp1005-8-item3 .text,
+#NED-bp1005-8-item4 .text {
+  position: absolute;
+  width: 250px;
+  top: 361px;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/**
+* One list item
+*/
+
+#NED-bp1005-8-item1 .title {
+  left: 408px;
+}
+#NED-bp1005-8-item1 .text {
+  left: 408px;
+}
+/**
+* Two list item
+*/
+
+#NED-bp1005-8-item2 .title1 {
+  left: 139px;
+}
+#NED-bp1005-8-item2 .text1 {
+  left: 139px;
+}
+#NED-bp1005-8-item2 .title2 {
+  left: 890px;
+  text-align: left;
+}
+#NED-bp1005-8-item2 .text2 {
+  left: 890px;
+}
+/**
+ * Three list item
+ */
+
+ #NED-bp1005-8-item3 .title1 {
+   top: 191px;
+   left: 139px;
+ }
+ #NED-bp1005-8-item3 .text1 {
+   top: 243px;
+   left: 139px;
+ }
+ #NED-bp1005-8-item3 .title2 {
+   top: 191px;
+   left: 890px;
+   text-align: left;
+ }
+ #NED-bp1005-8-item3 .text2 {
+   top: 243px;
+   left: 890px;
+ }
+ #NED-bp1005-8-item3 .title3 {
+   top: 415px;
+   left: 251px;
+ }
+ #NED-bp1005-8-item3 .text3 {
+   top: 467px;
+   left: 251px;
+ }
+/**
+ * Four list item
+ */
+
+ #NED-bp1005-8-item4 .title1 {
+   top: 191px;
+   left: 139px;
+ }
+ #NED-bp1005-8-item4 .text1 {
+   top: 243px;
+   left: 139px;
+ }
+ #NED-bp1005-8-item4 .title2 {
+   top: 191px;
+   left: 890px;
+   text-align: left;
+ }
+ #NED-bp1005-8-item4 .text2 {
+   top: 243px;
+   left: 890px;
+ }
+ #NED-bp1005-8-item4 .title3 {
+   top: 415px;
+   left: 139px;
+ }
+ #NED-bp1005-8-item4 .text3 {
+   top: 467px;
+   left: 139px;
+ }
+ #NED-bp1005-8-item4 .title4 {
+   top: 415px;
+   left: 890px;
+   text-align: left;
+ }
+ #NED-bp1005-8-item4 .text4 {
+   top: 467px;
+   left: 890px;
+ }

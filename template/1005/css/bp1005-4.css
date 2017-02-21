@@ -1,0 +1,37 @@
+/** TODO: 目前採用 NED-header 需要修改 */
+#NED-bp1005-4-introduction .headerText {
+  position: absolute;
+  width: 100%;
+  top: 51px;
+  left: 76px;
+  color: #FEFEFE;
+  letter-spacing: 4px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+#NED-bp1005-4-introduction .imageBox {
+  position: absolute;
+  width: 576px;
+  height: 477px;
+  top: 139px;
+  left: 29px;
+  z-index: 5;
+}
+/** middle image */
+#NED-bp1005-4-introduction .middleImg {
+  position: absolute;
+  width: 380px;
+  height: 238px;
+  top: 302px;
+  left: 133px;
+  z-index: 6;
+}
+/** middle image */
+#NED-bp1005-4-introduction .introduction {
+  position: absolute;
+  width: 571px;
+  left: 618px;
+  top: 200px;
+  font-size:20px;
+}

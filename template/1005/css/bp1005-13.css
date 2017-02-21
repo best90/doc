@@ -1,0 +1,165 @@
+
+/** TODO: 目前採用 NED-header 需要修改 */
+#NED-bp1005-13-item1 .headerText,
+#NED-bp1005-13-item2 .headerText,
+#NED-bp1005-13-item3 .headerText,
+#NED-bp1005-13-item4 .headerText {
+  position: absolute;
+  width: 100%;
+  top: 51px;
+  left: 76px;
+  color: #FEFEFE;
+  letter-spacing: 4px;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/**stripImg */
+#NED-bp1005-13-item1 .centerIcon,
+#NED-bp1005-13-item2 .centerIcon,
+#NED-bp1005-13-item3 .centerIcon,
+#NED-bp1005-13-item4 .centerIcon {
+  position: absolute;
+  width: 218px;
+  height: 218px;
+  top: 231px;
+  left: 531px;
+  z-index: 6;
+}
+/**name */
+#NED-bp1005-13-item1 .name,
+#NED-bp1005-13-item2 .name,
+#NED-bp1005-13-item3 .name,
+#NED-bp1005-13-item4 .name {
+  font-weight: normal;
+  position: absolute;
+  text-align:center;
+  top: 501px;
+  width: 197px;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1;
+  word-wrap: break-word;
+  z-index: 6;
+}
+/** text */
+#NED-bp1005-13-item1 .text,
+#NED-bp1005-13-item2 .text,
+#NED-bp1005-13-item3 .text,
+#NED-bp1005-13-item4 .text {
+  position: absolute;
+  width: 63px;
+  top: 283px;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 22px;
+  text-align: center;
+  word-wrap: break-word;
+  z-index: 6;
+}
+
+#NED-bp1005-13-item1 .inline,
+#NED-bp1005-13-item2 .inline,
+#NED-bp1005-13-item3 .inline,
+#NED-bp1005-13-item4 .inline {
+  display: inline-block;
+}
+/**
+ * One list item
+ */
+#NED-bp1005-13-item1 .name {
+  left: 541px;
+}
+#NED-bp1005-13-item1 .text {
+  left: 650px;
+}
+/**
+* Two list item
+*/
+#NED-bp1005-13-item2 .icon1{
+  left: 304px;
+}
+#NED-bp1005-13-item2 .name1 {
+  left: 314px;
+}
+#NED-bp1005-13-item2 .text1 {
+  left: 423px;
+}
+#NED-bp1005-13-item2 .icon2{
+  left: 758px;
+}
+#NED-bp1005-13-item2 .name2 {
+  left: 768px;
+}
+#NED-bp1005-13-item2 .text2 {
+  left: 877px;
+}
+/**
+ * Three list item
+ */
+#NED-bp1005-13-item3 .icon1{
+  left: 183px;
+}
+ #NED-bp1005-13-item3 .name1 {
+   left: 193px;
+ }
+ #NED-bp1005-13-item3 .text1 {
+   left: 302px;
+ }
+ #NED-bp1005-13-item3 .icon2{
+  left: 532px;
+}
+ #NED-bp1005-13-item3 .name2 {
+   left: 542px;
+ }
+ #NED-bp1005-13-item3 .text2 {
+   left: 651px;
+ }
+ #NED-bp1005-13-item3 .icon3{
+  left: 880px;
+}
+ #NED-bp1005-13-item3 .name3 {
+   left: 890px;
+ }
+ #NED-bp1005-13-item3 .text3 {
+   left: 999px;
+ }
+/**
+ * Four list item
+ */
+#NED-bp1005-13-item4 .icon1{
+  left: 108px;
+}
+ #NED-bp1005-13-item4 .name1 {
+   left: 118px;
+ }
+ #NED-bp1005-13-item4 .text1 {
+   left: 227px;
+ }
+ #NED-bp1005-13-item4 .icon2{
+  left: 390px;
+}
+ #NED-bp1005-13-item4 .name2 {
+   left: 400px;
+ }
+ #NED-bp1005-13-item4 .text2 {
+   left: 509px;
+ }
+ #NED-bp1005-13-item4 .icon3{
+  left: 672px;
+}
+ #NED-bp1005-13-item4 .name3 {
+   left: 682px;
+ }
+ #NED-bp1005-13-item4 .text3 {
+   left: 791px;
+ }
+ #NED-bp1005-13-item4 .icon4{
+  left: 954px;
+}
+ #NED-bp1005-13-item4 .name4 {
+   left: 964px;
+ }
+ #NED-bp1005-13-item4 .text4 {
+   left: 1073px;
+ }
